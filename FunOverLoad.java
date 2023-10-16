@@ -6,7 +6,7 @@ class Shape
 		Double area = 3.14 * a * a;
 		System.out.println("Area of a circle with radius "+a+" is "+area);
 	}
-	void Area(int a, int  b)
+	void Area(int a, int b)
 	{
 		int area = a * b;
 		System.out.println("Area of Rectangle with "+a+" and "+b+" is "+area);
